@@ -6,7 +6,7 @@
     "alt": "MEC Phichit Logo"
   },
   "tribute": {
-    "src": "assets/images/1782293418086__________6.jpg",
+    "src": "assets/images/1784864293519___________10.jpg",
     "alt": "ทรงพระเจริญ"
   },
   "hero": {
@@ -44,20 +44,20 @@
   },
   "gallery": [
     {
-      "src": "assets/images/1782204948938__________________________.png",
-      "alt": "สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง",
+      "src": "assets/images/1784864293519___________10.jpg",
+      "alt": "รัชกาลที่ 10",
       "focal_point": "center center",
       "zoom": false
     },
     {
-      "src": "assets/images/1782290249369__________6.jpg",
-      "alt": "สมเด็จพระเจ้าลูกเธอ เจ้าฟ้ากรมหลวงราชสาริณีสิริพัชร มหาวัชรราชธิดา",
+      "src": "assets/images/1784864939785_________69.JPG",
+      "alt": "ไหว้ครู 2569",
       "focal_point": "center center",
-      "zoom": false
+      "zoom": true
     },
     {
-      "src": "assets/images/1782289061540_DSC_1419.JPG",
-      "alt": "รับปริญญา รุ่น 17 ปีการศึกษา 2568",
+      "src": "assets/images/1783318072619_A29I9142.jpg",
+      "alt": "นิสิตแพทย์รุ่นที่ 19",
       "focal_point": "center center",
       "zoom": true
     },
@@ -68,8 +68,8 @@
       "zoom": true
     },
     {
-      "src": "assets/images/1783318072619_A29I9142.jpg",
-      "alt": "โรงพยาบาลพิจิตร",
+      "src": "assets/images/1782289061540_DSC_1419.JPG",
+      "alt": "รับปริญญา รุ่น 17 ปีการศึกษา 2568",
       "focal_point": "center center",
       "zoom": true
     }
